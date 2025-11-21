@@ -1,0 +1,10 @@
+Capacitor_electronico
+Cautin_para_soldar
+Destornillador_electronica
+Fuente_de_alimentacion_dc
+Multimetro_electronico
+Osciloscopio
+Protoboard
+Raspberry
+Resistencia_electronica
+Transformador_electronico
