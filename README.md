@@ -21,8 +21,6 @@ Capacitor electrónico
 
 Resistencia electrónica
 
-LED electrónico
-
 Destornillador electrónico
 
 Fuente de alimentación DC
