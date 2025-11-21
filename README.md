@@ -33,7 +33,7 @@ Raspberry Pi
 
 Cada herramienta tiene su propia carpeta en el proyecto, y dentro de cada una se guardan todas las imágenes descargadas.
 
-Imagen 1
+![Carpetas del dataset](Imagenes/Carpetas_dataset.png)
 
 ### Web Scraping con una API de DuckDuckGo
 
@@ -373,6 +373,11 @@ Docker Compose que permite definir toda la configuración del contenedor en un a
 - Mapea directorios del host dentro del contenedor. El mapeo más importante es /tmp/.X11-unix, que permite que el contenedor acceda a la cámara web. También mapeamos el código fuente para poder modificarlo sin reconstruir la imagen.
 - Tambien le da al contenedor acceso directo a la cámara web (/dev/video0).
 
+![Contenedor dorriendo](Imagenes/Despliegue_docker.png)
+
+![Contenedor dorriendo](Imagenes/Prueba_contenedor_corriendo.png)
+![Contenedor dorriendo](Imagenes/Prueba_contenedor_corriendo1.png)
+
 ## Despliegue con Streamlit
 
 ### Estructura de la Aplicación
@@ -421,4 +426,13 @@ Para abrir la aplicacion web de streamlit se utilizo
 ```
 streamlit run app.py
 ```
+
+
+
+
+
+![Despliegue de streamlit](Imagenes/Muestra1_app.png)
+![Despliegue de streamlit](Imagenes/Muestra2_app.png)
+
+![Despliegue de streamlit](Imagenes/Muestra3_app.png)
 
